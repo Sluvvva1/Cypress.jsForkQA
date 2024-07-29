@@ -1,0 +1,2 @@
+# Cypress.js
+Avtotest Cypress
